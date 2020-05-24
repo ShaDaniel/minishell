@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parser_find_delimiter.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tjonella <tjonella@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/22 21:49:58 by ksharlen          #+#    #+#             */
-/*   Updated: 2020/03/17 12:54:51 by tjonella         ###   ########.fr       */
+/*   Created: 2020/02/22 21:49:58 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

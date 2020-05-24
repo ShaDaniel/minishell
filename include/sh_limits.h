@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   sh_limits.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/03 03:16:21 by ksharlen          #+#    #+#             */
-/*   Updated: 2020/03/15 19:58:00 by ksharlen         ###   ########.fr       */
+/*   Created: 2020/02/03 03:16:21 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:53:24 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,8 @@
 # include <sys/types.h>
 # include <limits.h>
 
-# define STR_ERR_SHELL	"21sh: "
-# define P_N			"21sh"
+# define STR_ERR_SHELL	"minishell: "
+# define P_N			"minishell"
 
 # define SH21_MAX_PATH	256
 # define SH21_MAX_NAME	256

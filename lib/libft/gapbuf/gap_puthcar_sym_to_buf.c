@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   gap_puthcar_sym_to_buf.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/01/28 18:23:44 by ksharlen          #+#    #+#             */
-/*   Updated: 2020/03/29 19:05:15 by ksharlen         ###   ########.fr       */
+/*   Created: 2020/01/28 18:23:44 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

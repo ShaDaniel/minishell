@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   input_set_of_instr_for_getch.c                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/08 00:00:40 by ksharlen          #+#    #+#             */
-/*   Updated: 2020/02/16 16:59:31 by ksharlen         ###   ########.fr       */
+/*   Created: 2020/02/08 00:00:40 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

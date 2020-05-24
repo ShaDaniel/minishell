@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   pars_write_amper_args_after_stream.c               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mdelphia <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/03/11 18:20:12 by mdelphia          #+#    #+#             */
-/*   Updated: 2020/03/11 18:20:15 by mdelphia         ###   ########.fr       */
+/*   Created: 2020/03/11 18:20:12 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:48:14 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

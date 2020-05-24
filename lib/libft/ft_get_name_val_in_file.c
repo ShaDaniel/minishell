@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_get_name_val_in_file.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/09/28 20:59:19 by ksharlen          #+#    #+#             */
-/*   Updated: 2019/09/30 13:23:13 by ksharlen         ###   ########.fr       */
+/*   Created: 2019/09/28 20:59:19 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

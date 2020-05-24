@@ -3,14 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: student <student@student.42.fr>            +#+  +:+       +#+         #
+#    By: marvin <marvin@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/02/16 21:51:15 by ksharlen          #+#    #+#              #
-#    Updated: 2020/04/30 02:02:55 by student          ###   ########.fr        #
+#    Created: 2020/02/16 21:51:15 by tjonella          #+#    #+#              #
+#    Updated: 2020/05/24 19:53:35 by marvin           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME						:=	21sh
+NAME						:=	minishell
 
 SRC_MAIN					:=	main.c
 

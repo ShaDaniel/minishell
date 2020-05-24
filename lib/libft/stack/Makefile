@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+         #
+#    By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/01/25 18:09:03 by ksharlen          #+#    #+#              #
-#    Updated: 2020/01/25 18:09:29 by ksharlen         ###   ########.fr        #
+#    Created: 2020/01/25 18:09:03 by tjonella          #+#    #+#              #
+#    Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

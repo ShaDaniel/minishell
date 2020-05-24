@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   input_additional_modes.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksharlen <ksharlen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tjonella <tjonella@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/06 16:03:00 by ksharlen          #+#    #+#             */
-/*   Updated: 2020/02/06 20:42:44 by ksharlen         ###   ########.fr       */
+/*   Created: 2020/02/06 16:03:00 by tjonella          #+#    #+#             */
+/*   Updated: 2020/05/24 19:47:09 by tjonella           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
