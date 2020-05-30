@@ -6,7 +6,7 @@
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/12/10 11:41:27 by tjonella          #+#    #+#             */
-/*   Updated: 2020/05/24 20:44:51 by marvin           ###   ########.fr       */
+/*   Updated: 2020/05/30 19:14:39 by student          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,10 @@
 
 static int	check_and_fill_flag_dollar(char *str, t_pars_list *list)
 {
-	if (*str == '$' && *(str - 1) != '\\' &&
+	char	*ptr;
+
+	ptr = str;
+	if (*str == '$' && (ptr == str || *(str - 1) != '\\') &&
 		(ft_isalpha(*(str + 1)) || ft_isdigit(*(str + 1))))
 	{
 		list->f_delimiter |= V_DOLLAR;

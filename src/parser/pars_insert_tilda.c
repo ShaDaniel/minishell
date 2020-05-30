@@ -6,7 +6,7 @@
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/10 21:39:19 by tjonella          #+#    #+#             */
-/*   Updated: 2020/05/24 21:20:31 by marvin           ###   ########.fr       */
+/*   Updated: 2020/05/30 19:16:15 by student          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,17 +44,18 @@ char			*pars_insert_tilda(t_exec_lst *execlist, char **str)
 	char	*ptr;
 
 	ptr = *str;
-	while (search_tilda(*str) && *ptr)
-	{
-		if (parse_is_quote(*ptr))
-			ptr = parse_next_quote(ptr);
-		if (*ptr == '~')
+	if (sh21_getenv(execlist, "HOME"))
+		while (search_tilda(*str) && *ptr)
 		{
-			*str = tilda_realloc(execlist, str, ptr);
-			ptr = *str;
+			if (parse_is_quote(*ptr))
+				ptr = parse_next_quote(ptr);
+			if (*ptr == '~')
+			{
+				*str = tilda_realloc(execlist, str, ptr);
+				ptr = *str;
+			}
+			else
+				ptr++;
 		}
-		else
-			ptr++;
-	}
 	return (*str);
 }
